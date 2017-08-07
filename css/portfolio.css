@@ -1,0 +1,20 @@
+ /* class selector */
+   .blue {
+       color: blue;
+   }
+
+   /* id selector */
+   #blue {
+       color: blue;
+   }
+
+   /* tag selector */
+   body {
+    background-color: #dfdfdf;
+    color: #333333;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+   }
+
+   h1 {
+       color: blue;
+   } 
